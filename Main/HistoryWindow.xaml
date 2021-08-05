@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="Main.HistoryWindow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Width="318" Height="267.5"
+             BorderBrush="#222f3e"
+             BorderThickness="0.5">
+
+    <Grid Background="#222f3e" Width="318" Height="267" Opacity="0.9">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Button x:Name="Back" Background="#222f3e"  BorderThickness="0" Click="Back_Click">
+            <Image Source="Resources/down.png" Height="37" Width="58"/>
+        </Button>
+
+        <ListBox Name="myLabels" Height="227" Grid.Row="2" Background="#222f3e"  BorderThickness="0" Foreground="White"  FontSize="20" VerticalAlignment="Center" HorizontalContentAlignment="Center" ScrollViewer.VerticalScrollBarVisibility="Hidden">
+            <ListBox.ItemContainerStyle>
+                <Style>
+                    <Setter Property="ListBoxItem.Padding" Value="16.8"/>
+                </Style>
+            </ListBox.ItemContainerStyle>
+        </ListBox>
+    </Grid>
+</UserControl>

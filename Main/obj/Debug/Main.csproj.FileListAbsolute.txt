@@ -1,0 +1,54 @@
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\bin\Debug\Main.exe.config
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\bin\Debug\Main.exe
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\bin\Debug\Main.pdb
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\obj\Debug\HistoryWindow.baml
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\obj\Debug\HistoryWindow.g.cs
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\obj\Debug\MainWindow.g.cs
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\obj\Debug\App.g.cs
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\obj\Debug\Main_MarkupCompile.cache
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\obj\Debug\Main_MarkupCompile.lref
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\obj\Debug\MainWindow.baml
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\obj\Debug\Main.g.resources
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\obj\Debug\Main.exe
+C:\Users\songmin\Desktop\wpf-calculator-master (2)\wpf-calculator-master\Main\obj\Debug\Main.pdb
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\bin\Debug\Main.exe.config
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\bin\Debug\Main.exe
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\bin\Debug\Main.pdb
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\obj\Debug\HistoryWindow.baml
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\obj\Debug\HistoryWindow.g.cs
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\obj\Debug\MainWindow.g.cs
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\obj\Debug\App.g.cs
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\obj\Debug\Main_MarkupCompile.cache
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\obj\Debug\Main_MarkupCompile.lref
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\obj\Debug\MainWindow.baml
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\obj\Debug\Main.g.resources
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\obj\Debug\Main.exe
+C:\Users\songmin\Desktop\GitHub\ivanselah_winform_cal\Main\obj\Debug\Main.pdb
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\bin\Debug\Main.exe.config
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\bin\Debug\Main.exe
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\bin\Debug\Main.pdb
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\obj\Debug\Main.csproj.AssemblyReference.cache
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\obj\Debug\HistoryWindow.baml
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\obj\Debug\HistoryWindow.g.cs
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\obj\Debug\MainWindow.g.cs
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\obj\Debug\App.g.cs
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\obj\Debug\Main_MarkupCompile.cache
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\obj\Debug\Main_MarkupCompile.lref
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\obj\Debug\MainWindow.baml
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\obj\Debug\Main.g.resources
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\obj\Debug\Main.exe
+C:\Users\songmin\Desktop\ivanselah_winform_cal-main\ivanselah_winform_cal-main\Main\obj\Debug\Main.pdb
